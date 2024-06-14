@@ -1,6 +1,9 @@
 # SportAI
-Gebruik SportAI om jouw oefeningen te meten en hier een toffe high score op te behalen
+Gebruik Repcounter pro om jouw oefeningen te meten en hier een toffe high score op te behalen
 
-Installatie instructies: -Wanneer je de repository hebt gecloned ga je naar je terminal toe in je IDE en run het command "cd server" -Wanneer je in de server zit run je de command "npm install" -Maak daarna een .env file aan en voeg je API key toe -Nu ben je klaar met installeren en kan je de command "npm run dev" gebruiken om de server te starten
+Installatie instructies:
+-Het project bestaat uit twee applicaties: "Repcounter pro" en "Repcounter pro test"
+-Repcounter pro is de applicatie die je wilt runnen, hier hoeft verder niks op gesinstalleerd te worden en kan je zo gelijk beginnen aangezien de ai hier al op staat.
+-Repcounter pro test is gebruikt om nieuwe poses op te slaan voor de ai en de accuracy te testen.
 
-Mogelijke problemen: -Bij het runnen van de "npm run dev" command is het mogelijk dat de server crasht, wanneer je de command nog een keer runt zou de server moeten starten.
+Veel plezier!
